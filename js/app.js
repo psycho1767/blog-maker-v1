@@ -1,4 +1,4 @@
-let apiKey = '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'; 
+let apiKey = ''; 
 const topic = document.getElementById('topic')
 const keyword = document.getElementById('keyword')
 const par = document.getElementById('paragraphs')
